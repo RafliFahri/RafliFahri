@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rafli Fahri, you can call me Rafu, I'm a Last Year student of Information Technology in Indonesia, Jakarta. I'm have interest in Software Engineer and Cloud Cloud Engineer</p>
+<p align="left">My name is Rafli Fahri, you can call me Rafu, I'm a Last Year student of Information Technology in Indonesia, Jakarta. I'm have interest in Software Engineer and Cloud Engineer</p>
 
 ###
 
